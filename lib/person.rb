@@ -1,4 +1,11 @@
 class Person
+  def 
+    puts "Hello World!"
+  end 
+  
+  def walk
+    
+  end
 end
 
 adele_goldberg = Person.new
